@@ -1,1 +1,1 @@
-My little experiment in creating a one-joint list for the ZX Spectrum in assembler.
+My little experiment in creating a Linked List for the ZX Spectrum in assembler.
